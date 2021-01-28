@@ -2,3 +2,4 @@ i=0
 for(i=0:i<5;i++)
 print("juhi kumari")
 print("kumari juhi")
+print ("hjhk")
